@@ -7,68 +7,68 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D0BA9C502348E6A5003EB269 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0BA9C4F2348E6A5003EB269 /* AppDelegate.swift */; };
-		D0BA9C522348E6A5003EB269 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0BA9C512348E6A5003EB269 /* SceneDelegate.swift */; };
-		D0BA9C552348E6A5003EB269 /* Apomden.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D0BA9C532348E6A5003EB269 /* Apomden.xcdatamodeld */; };
-		D0BA9C572348E6A5003EB269 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0BA9C562348E6A5003EB269 /* ContentView.swift */; };
-		D0BA9C592348E6A9003EB269 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0BA9C582348E6A9003EB269 /* Assets.xcassets */; };
-		D0BA9C5C2348E6A9003EB269 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0BA9C5B2348E6A9003EB269 /* Preview Assets.xcassets */; };
-		D0BA9C5F2348E6A9003EB269 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0BA9C5D2348E6A9003EB269 /* LaunchScreen.storyboard */; };
-		D0BA9C6A2348E6A9003EB269 /* ApomdenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0BA9C692348E6A9003EB269 /* ApomdenTests.swift */; };
-		D0BA9C752348E6A9003EB269 /* ApomdenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0BA9C742348E6A9003EB269 /* ApomdenUITests.swift */; };
+		D00D83282348F530009BE74D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00D83272348F530009BE74D /* AppDelegate.swift */; };
+		D00D832A2348F530009BE74D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00D83292348F530009BE74D /* SceneDelegate.swift */; };
+		D00D832C2348F530009BE74D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00D832B2348F530009BE74D /* ViewController.swift */; };
+		D00D832F2348F530009BE74D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D00D832D2348F530009BE74D /* Main.storyboard */; };
+		D00D83322348F530009BE74D /* Apomden.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D00D83302348F530009BE74D /* Apomden.xcdatamodeld */; };
+		D00D83342348F532009BE74D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D00D83332348F532009BE74D /* Assets.xcassets */; };
+		D00D83372348F532009BE74D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D00D83352348F532009BE74D /* LaunchScreen.storyboard */; };
+		D00D83422348F532009BE74D /* ApomdenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00D83412348F532009BE74D /* ApomdenTests.swift */; };
+		D00D834D2348F532009BE74D /* ApomdenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00D834C2348F532009BE74D /* ApomdenUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		D0BA9C662348E6A9003EB269 /* PBXContainerItemProxy */ = {
+		D00D833E2348F532009BE74D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D0BA9C442348E6A5003EB269 /* Project object */;
+			containerPortal = D00D831C2348F530009BE74D /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D0BA9C4B2348E6A5003EB269;
+			remoteGlobalIDString = D00D83232348F530009BE74D;
 			remoteInfo = Apomden;
 		};
-		D0BA9C712348E6A9003EB269 /* PBXContainerItemProxy */ = {
+		D00D83492348F532009BE74D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D0BA9C442348E6A5003EB269 /* Project object */;
+			containerPortal = D00D831C2348F530009BE74D /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D0BA9C4B2348E6A5003EB269;
+			remoteGlobalIDString = D00D83232348F530009BE74D;
 			remoteInfo = Apomden;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D0BA9C4C2348E6A5003EB269 /* Apomden.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Apomden.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D0BA9C4F2348E6A5003EB269 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D0BA9C512348E6A5003EB269 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D0BA9C542348E6A5003EB269 /* Apomden.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Apomden.xcdatamodel; sourceTree = "<group>"; };
-		D0BA9C562348E6A5003EB269 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		D0BA9C582348E6A9003EB269 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D0BA9C5B2348E6A9003EB269 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		D0BA9C5E2348E6A9003EB269 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D0BA9C602348E6A9003EB269 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D0BA9C652348E6A9003EB269 /* ApomdenTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ApomdenTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D0BA9C692348E6A9003EB269 /* ApomdenTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApomdenTests.swift; sourceTree = "<group>"; };
-		D0BA9C6B2348E6A9003EB269 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D0BA9C702348E6A9003EB269 /* ApomdenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ApomdenUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D0BA9C742348E6A9003EB269 /* ApomdenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApomdenUITests.swift; sourceTree = "<group>"; };
-		D0BA9C762348E6A9003EB269 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D00D83242348F530009BE74D /* Apomden.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Apomden.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D00D83272348F530009BE74D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D00D83292348F530009BE74D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		D00D832B2348F530009BE74D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D00D832E2348F530009BE74D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D00D83312348F530009BE74D /* Apomden.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Apomden.xcdatamodel; sourceTree = "<group>"; };
+		D00D83332348F532009BE74D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D00D83362348F532009BE74D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D00D83382348F532009BE74D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D00D833D2348F532009BE74D /* ApomdenTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ApomdenTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D00D83412348F532009BE74D /* ApomdenTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApomdenTests.swift; sourceTree = "<group>"; };
+		D00D83432348F532009BE74D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D00D83482348F532009BE74D /* ApomdenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ApomdenUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D00D834C2348F532009BE74D /* ApomdenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApomdenUITests.swift; sourceTree = "<group>"; };
+		D00D834E2348F532009BE74D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D0BA9C492348E6A5003EB269 /* Frameworks */ = {
+		D00D83212348F530009BE74D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D0BA9C622348E6A9003EB269 /* Frameworks */ = {
+		D00D833A2348F532009BE74D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D0BA9C6D2348E6A9003EB269 /* Frameworks */ = {
+		D00D83452348F532009BE74D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -78,63 +78,55 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D0BA9C432348E6A5003EB269 = {
+		D00D831B2348F530009BE74D = {
 			isa = PBXGroup;
 			children = (
-				D0BA9C4E2348E6A5003EB269 /* Apomden */,
-				D0BA9C682348E6A9003EB269 /* ApomdenTests */,
-				D0BA9C732348E6A9003EB269 /* ApomdenUITests */,
-				D0BA9C4D2348E6A5003EB269 /* Products */,
+				D00D83262348F530009BE74D /* Apomden */,
+				D00D83402348F532009BE74D /* ApomdenTests */,
+				D00D834B2348F532009BE74D /* ApomdenUITests */,
+				D00D83252348F530009BE74D /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D0BA9C4D2348E6A5003EB269 /* Products */ = {
+		D00D83252348F530009BE74D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D0BA9C4C2348E6A5003EB269 /* Apomden.app */,
-				D0BA9C652348E6A9003EB269 /* ApomdenTests.xctest */,
-				D0BA9C702348E6A9003EB269 /* ApomdenUITests.xctest */,
+				D00D83242348F530009BE74D /* Apomden.app */,
+				D00D833D2348F532009BE74D /* ApomdenTests.xctest */,
+				D00D83482348F532009BE74D /* ApomdenUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D0BA9C4E2348E6A5003EB269 /* Apomden */ = {
+		D00D83262348F530009BE74D /* Apomden */ = {
 			isa = PBXGroup;
 			children = (
-				D0BA9C4F2348E6A5003EB269 /* AppDelegate.swift */,
-				D0BA9C512348E6A5003EB269 /* SceneDelegate.swift */,
-				D0BA9C562348E6A5003EB269 /* ContentView.swift */,
-				D0BA9C582348E6A9003EB269 /* Assets.xcassets */,
-				D0BA9C5D2348E6A9003EB269 /* LaunchScreen.storyboard */,
-				D0BA9C602348E6A9003EB269 /* Info.plist */,
-				D0BA9C532348E6A5003EB269 /* Apomden.xcdatamodeld */,
-				D0BA9C5A2348E6A9003EB269 /* Preview Content */,
+				D00D83272348F530009BE74D /* AppDelegate.swift */,
+				D00D83292348F530009BE74D /* SceneDelegate.swift */,
+				D00D832B2348F530009BE74D /* ViewController.swift */,
+				D00D832D2348F530009BE74D /* Main.storyboard */,
+				D00D83332348F532009BE74D /* Assets.xcassets */,
+				D00D83352348F532009BE74D /* LaunchScreen.storyboard */,
+				D00D83382348F532009BE74D /* Info.plist */,
+				D00D83302348F530009BE74D /* Apomden.xcdatamodeld */,
 			);
 			path = Apomden;
 			sourceTree = "<group>";
 		};
-		D0BA9C5A2348E6A9003EB269 /* Preview Content */ = {
+		D00D83402348F532009BE74D /* ApomdenTests */ = {
 			isa = PBXGroup;
 			children = (
-				D0BA9C5B2348E6A9003EB269 /* Preview Assets.xcassets */,
-			);
-			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		D0BA9C682348E6A9003EB269 /* ApomdenTests */ = {
-			isa = PBXGroup;
-			children = (
-				D0BA9C692348E6A9003EB269 /* ApomdenTests.swift */,
-				D0BA9C6B2348E6A9003EB269 /* Info.plist */,
+				D00D83412348F532009BE74D /* ApomdenTests.swift */,
+				D00D83432348F532009BE74D /* Info.plist */,
 			);
 			path = ApomdenTests;
 			sourceTree = "<group>";
 		};
-		D0BA9C732348E6A9003EB269 /* ApomdenUITests */ = {
+		D00D834B2348F532009BE74D /* ApomdenUITests */ = {
 			isa = PBXGroup;
 			children = (
-				D0BA9C742348E6A9003EB269 /* ApomdenUITests.swift */,
-				D0BA9C762348E6A9003EB269 /* Info.plist */,
+				D00D834C2348F532009BE74D /* ApomdenUITests.swift */,
+				D00D834E2348F532009BE74D /* Info.plist */,
 			);
 			path = ApomdenUITests;
 			sourceTree = "<group>";
@@ -142,13 +134,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D0BA9C4B2348E6A5003EB269 /* Apomden */ = {
+		D00D83232348F530009BE74D /* Apomden */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D0BA9C792348E6A9003EB269 /* Build configuration list for PBXNativeTarget "Apomden" */;
+			buildConfigurationList = D00D83512348F532009BE74D /* Build configuration list for PBXNativeTarget "Apomden" */;
 			buildPhases = (
-				D0BA9C482348E6A5003EB269 /* Sources */,
-				D0BA9C492348E6A5003EB269 /* Frameworks */,
-				D0BA9C4A2348E6A5003EB269 /* Resources */,
+				D00D83202348F530009BE74D /* Sources */,
+				D00D83212348F530009BE74D /* Frameworks */,
+				D00D83222348F530009BE74D /* Resources */,
 			);
 			buildRules = (
 			);
@@ -156,69 +148,69 @@
 			);
 			name = Apomden;
 			productName = Apomden;
-			productReference = D0BA9C4C2348E6A5003EB269 /* Apomden.app */;
+			productReference = D00D83242348F530009BE74D /* Apomden.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D0BA9C642348E6A9003EB269 /* ApomdenTests */ = {
+		D00D833C2348F532009BE74D /* ApomdenTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D0BA9C7C2348E6A9003EB269 /* Build configuration list for PBXNativeTarget "ApomdenTests" */;
+			buildConfigurationList = D00D83542348F532009BE74D /* Build configuration list for PBXNativeTarget "ApomdenTests" */;
 			buildPhases = (
-				D0BA9C612348E6A9003EB269 /* Sources */,
-				D0BA9C622348E6A9003EB269 /* Frameworks */,
-				D0BA9C632348E6A9003EB269 /* Resources */,
+				D00D83392348F532009BE74D /* Sources */,
+				D00D833A2348F532009BE74D /* Frameworks */,
+				D00D833B2348F532009BE74D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				D0BA9C672348E6A9003EB269 /* PBXTargetDependency */,
+				D00D833F2348F532009BE74D /* PBXTargetDependency */,
 			);
 			name = ApomdenTests;
 			productName = ApomdenTests;
-			productReference = D0BA9C652348E6A9003EB269 /* ApomdenTests.xctest */;
+			productReference = D00D833D2348F532009BE74D /* ApomdenTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		D0BA9C6F2348E6A9003EB269 /* ApomdenUITests */ = {
+		D00D83472348F532009BE74D /* ApomdenUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D0BA9C7F2348E6A9003EB269 /* Build configuration list for PBXNativeTarget "ApomdenUITests" */;
+			buildConfigurationList = D00D83572348F532009BE74D /* Build configuration list for PBXNativeTarget "ApomdenUITests" */;
 			buildPhases = (
-				D0BA9C6C2348E6A9003EB269 /* Sources */,
-				D0BA9C6D2348E6A9003EB269 /* Frameworks */,
-				D0BA9C6E2348E6A9003EB269 /* Resources */,
+				D00D83442348F532009BE74D /* Sources */,
+				D00D83452348F532009BE74D /* Frameworks */,
+				D00D83462348F532009BE74D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				D0BA9C722348E6A9003EB269 /* PBXTargetDependency */,
+				D00D834A2348F532009BE74D /* PBXTargetDependency */,
 			);
 			name = ApomdenUITests;
 			productName = ApomdenUITests;
-			productReference = D0BA9C702348E6A9003EB269 /* ApomdenUITests.xctest */;
+			productReference = D00D83482348F532009BE74D /* ApomdenUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D0BA9C442348E6A5003EB269 /* Project object */ = {
+		D00D831C2348F530009BE74D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
 				ORGANIZATIONNAME = Apomden;
 				TargetAttributes = {
-					D0BA9C4B2348E6A5003EB269 = {
+					D00D83232348F530009BE74D = {
 						CreatedOnToolsVersion = 11.0;
 					};
-					D0BA9C642348E6A9003EB269 = {
+					D00D833C2348F532009BE74D = {
 						CreatedOnToolsVersion = 11.0;
-						TestTargetID = D0BA9C4B2348E6A5003EB269;
+						TestTargetID = D00D83232348F530009BE74D;
 					};
-					D0BA9C6F2348E6A9003EB269 = {
+					D00D83472348F532009BE74D = {
 						CreatedOnToolsVersion = 11.0;
-						TestTargetID = D0BA9C4B2348E6A5003EB269;
+						TestTargetID = D00D83232348F530009BE74D;
 					};
 				};
 			};
-			buildConfigurationList = D0BA9C472348E6A5003EB269 /* Build configuration list for PBXProject "Apomden" */;
+			buildConfigurationList = D00D831F2348F530009BE74D /* Build configuration list for PBXProject "Apomden" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -226,37 +218,37 @@
 				en,
 				Base,
 			);
-			mainGroup = D0BA9C432348E6A5003EB269;
-			productRefGroup = D0BA9C4D2348E6A5003EB269 /* Products */;
+			mainGroup = D00D831B2348F530009BE74D;
+			productRefGroup = D00D83252348F530009BE74D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D0BA9C4B2348E6A5003EB269 /* Apomden */,
-				D0BA9C642348E6A9003EB269 /* ApomdenTests */,
-				D0BA9C6F2348E6A9003EB269 /* ApomdenUITests */,
+				D00D83232348F530009BE74D /* Apomden */,
+				D00D833C2348F532009BE74D /* ApomdenTests */,
+				D00D83472348F532009BE74D /* ApomdenUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D0BA9C4A2348E6A5003EB269 /* Resources */ = {
+		D00D83222348F530009BE74D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0BA9C5F2348E6A9003EB269 /* LaunchScreen.storyboard in Resources */,
-				D0BA9C5C2348E6A9003EB269 /* Preview Assets.xcassets in Resources */,
-				D0BA9C592348E6A9003EB269 /* Assets.xcassets in Resources */,
+				D00D83372348F532009BE74D /* LaunchScreen.storyboard in Resources */,
+				D00D83342348F532009BE74D /* Assets.xcassets in Resources */,
+				D00D832F2348F530009BE74D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D0BA9C632348E6A9003EB269 /* Resources */ = {
+		D00D833B2348F532009BE74D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D0BA9C6E2348E6A9003EB269 /* Resources */ = {
+		D00D83462348F532009BE74D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -266,53 +258,61 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D0BA9C482348E6A5003EB269 /* Sources */ = {
+		D00D83202348F530009BE74D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0BA9C502348E6A5003EB269 /* AppDelegate.swift in Sources */,
-				D0BA9C552348E6A5003EB269 /* Apomden.xcdatamodeld in Sources */,
-				D0BA9C572348E6A5003EB269 /* ContentView.swift in Sources */,
-				D0BA9C522348E6A5003EB269 /* SceneDelegate.swift in Sources */,
+				D00D83322348F530009BE74D /* Apomden.xcdatamodeld in Sources */,
+				D00D832C2348F530009BE74D /* ViewController.swift in Sources */,
+				D00D83282348F530009BE74D /* AppDelegate.swift in Sources */,
+				D00D832A2348F530009BE74D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D0BA9C612348E6A9003EB269 /* Sources */ = {
+		D00D83392348F532009BE74D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0BA9C6A2348E6A9003EB269 /* ApomdenTests.swift in Sources */,
+				D00D83422348F532009BE74D /* ApomdenTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D0BA9C6C2348E6A9003EB269 /* Sources */ = {
+		D00D83442348F532009BE74D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0BA9C752348E6A9003EB269 /* ApomdenUITests.swift in Sources */,
+				D00D834D2348F532009BE74D /* ApomdenUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		D0BA9C672348E6A9003EB269 /* PBXTargetDependency */ = {
+		D00D833F2348F532009BE74D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D0BA9C4B2348E6A5003EB269 /* Apomden */;
-			targetProxy = D0BA9C662348E6A9003EB269 /* PBXContainerItemProxy */;
+			target = D00D83232348F530009BE74D /* Apomden */;
+			targetProxy = D00D833E2348F532009BE74D /* PBXContainerItemProxy */;
 		};
-		D0BA9C722348E6A9003EB269 /* PBXTargetDependency */ = {
+		D00D834A2348F532009BE74D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D0BA9C4B2348E6A5003EB269 /* Apomden */;
-			targetProxy = D0BA9C712348E6A9003EB269 /* PBXContainerItemProxy */;
+			target = D00D83232348F530009BE74D /* Apomden */;
+			targetProxy = D00D83492348F532009BE74D /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		D0BA9C5D2348E6A9003EB269 /* LaunchScreen.storyboard */ = {
+		D00D832D2348F530009BE74D /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D0BA9C5E2348E6A9003EB269 /* Base */,
+				D00D832E2348F530009BE74D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		D00D83352348F532009BE74D /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D00D83362348F532009BE74D /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -320,7 +320,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D0BA9C772348E6A9003EB269 /* Debug */ = {
+		D00D834F2348F532009BE74D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -380,7 +380,7 @@
 			};
 			name = Debug;
 		};
-		D0BA9C782348E6A9003EB269 /* Release */ = {
+		D00D83502348F532009BE74D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -434,13 +434,12 @@
 			};
 			name = Release;
 		};
-		D0BA9C7A2348E6A9003EB269 /* Debug */ = {
+		D00D83522348F532009BE74D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"Apomden/Preview Content\"";
-				ENABLE_PREVIEWS = YES;
+				DEVELOPMENT_TEAM = KWZ663CS6G;
 				INFOPLIST_FILE = Apomden/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -453,13 +452,12 @@
 			};
 			name = Debug;
 		};
-		D0BA9C7B2348E6A9003EB269 /* Release */ = {
+		D00D83532348F532009BE74D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"Apomden/Preview Content\"";
-				ENABLE_PREVIEWS = YES;
+				DEVELOPMENT_TEAM = KWZ663CS6G;
 				INFOPLIST_FILE = Apomden/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -472,7 +470,7 @@
 			};
 			name = Release;
 		};
-		D0BA9C7D2348E6A9003EB269 /* Debug */ = {
+		D00D83552348F532009BE74D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -493,7 +491,7 @@
 			};
 			name = Debug;
 		};
-		D0BA9C7E2348E6A9003EB269 /* Release */ = {
+		D00D83562348F532009BE74D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -514,7 +512,7 @@
 			};
 			name = Release;
 		};
-		D0BA9C802348E6A9003EB269 /* Debug */ = {
+		D00D83582348F532009BE74D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -533,7 +531,7 @@
 			};
 			name = Debug;
 		};
-		D0BA9C812348E6A9003EB269 /* Release */ = {
+		D00D83592348F532009BE74D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -555,38 +553,38 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D0BA9C472348E6A5003EB269 /* Build configuration list for PBXProject "Apomden" */ = {
+		D00D831F2348F530009BE74D /* Build configuration list for PBXProject "Apomden" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D0BA9C772348E6A9003EB269 /* Debug */,
-				D0BA9C782348E6A9003EB269 /* Release */,
+				D00D834F2348F532009BE74D /* Debug */,
+				D00D83502348F532009BE74D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D0BA9C792348E6A9003EB269 /* Build configuration list for PBXNativeTarget "Apomden" */ = {
+		D00D83512348F532009BE74D /* Build configuration list for PBXNativeTarget "Apomden" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D0BA9C7A2348E6A9003EB269 /* Debug */,
-				D0BA9C7B2348E6A9003EB269 /* Release */,
+				D00D83522348F532009BE74D /* Debug */,
+				D00D83532348F532009BE74D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D0BA9C7C2348E6A9003EB269 /* Build configuration list for PBXNativeTarget "ApomdenTests" */ = {
+		D00D83542348F532009BE74D /* Build configuration list for PBXNativeTarget "ApomdenTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D0BA9C7D2348E6A9003EB269 /* Debug */,
-				D0BA9C7E2348E6A9003EB269 /* Release */,
+				D00D83552348F532009BE74D /* Debug */,
+				D00D83562348F532009BE74D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D0BA9C7F2348E6A9003EB269 /* Build configuration list for PBXNativeTarget "ApomdenUITests" */ = {
+		D00D83572348F532009BE74D /* Build configuration list for PBXNativeTarget "ApomdenUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D0BA9C802348E6A9003EB269 /* Debug */,
-				D0BA9C812348E6A9003EB269 /* Release */,
+				D00D83582348F532009BE74D /* Debug */,
+				D00D83592348F532009BE74D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -594,17 +592,17 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		D0BA9C532348E6A5003EB269 /* Apomden.xcdatamodeld */ = {
+		D00D83302348F530009BE74D /* Apomden.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				D0BA9C542348E6A5003EB269 /* Apomden.xcdatamodel */,
+				D00D83312348F530009BE74D /* Apomden.xcdatamodel */,
 			);
-			currentVersion = D0BA9C542348E6A5003EB269 /* Apomden.xcdatamodel */;
+			currentVersion = D00D83312348F530009BE74D /* Apomden.xcdatamodel */;
 			path = Apomden.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
 /* End XCVersionGroup section */
 	};
-	rootObject = D0BA9C442348E6A5003EB269 /* Project object */;
+	rootObject = D00D831C2348F530009BE74D /* Project object */;
 }
